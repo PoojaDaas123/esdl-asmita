@@ -5,4 +5,6 @@ int main()
 {
   cout<<"Welcome to GITHUB!!!";
   cout<<"Editing in the new branch...";
+  cout<<"New changes made";
+}
 
